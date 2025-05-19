@@ -46,6 +46,12 @@ This project focuses on analyzing customer behavior and sentiments across the re
 - Most engagement happens through **social media content**, with spikes around campaign periods.
 - **Drop-offs** identified in the "Consideration" stage of the customer journey.
 
+
+
+https://github.com/user-attachments/assets/87db187a-f6ed-426b-bda2-810299824e58
+
+
+
 ## 📂 Project Structure
 ```
 ├── data/
